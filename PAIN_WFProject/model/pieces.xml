@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pieces-collection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <pieces>
+    <piece>
+      <title>UtworA</title>
+      <author>Author_1 Author_1</author>
+      <recording-date>1999</recording-date>
+      <category>rock</category>
+    </piece>
+    <piece>
+      <title>UtworA</title>
+      <author>Author_1 Author_1</author>
+      <recording-date>1999</recording-date>
+      <category>rock</category>
+    </piece>
+    <piece>
+      <title>UtworA</title>
+      <author>Author_1 Author_1</author>
+      <recording-date>1999</recording-date>
+      <category>rock</category>
+    </piece>
+    <piece>
+      <title>UtworA</title>
+      <author>Author_1 Author_1</author>
+      <recording-date>1999</recording-date>
+      <category>rock</category>
+    </piece>
+    <piece>
+      <title>UtworA</title>
+      <author>Author_1 Author_1</author>
+      <recording-date>1999</recording-date>
+      <category>rock</category>
+    </piece>
+    <piece>
+      <title>UtworA</title>
+      <author>Author_1 Author_1</author>
+      <recording-date>1999</recording-date>
+      <category>rock</category>
+    </piece>
+    <piece>
+      <title>tit</title>
+      <author>t</author>
+      <recording-date>t</recording-date>
+      <category>t</category>
+    </piece>
+    <piece>
+      <title>asd</title>
+      <author>asd</author>
+      <recording-date>asd</recording-date>
+      <category>asd</category>
+    </piece>
+    <piece>
+      <title>tit</title>
+      <author>aut</author>
+      <recording-date>dat</recording-date>
+      <category>kat</category>
+    </piece>
+    <piece>
+      <title>kkdsa</title>
+      <author>auttt</author>
+      <recording-date>1999</recording-date>
+      <category>katego</category>
+    </piece>
+  </pieces>
+</pieces-collection>
